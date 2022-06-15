@@ -1,4 +1,4 @@
-package collectionn
+package collection
 
 func (m enumerable) First() IEnumerable {
 	iterator := m.GetEnumerator()

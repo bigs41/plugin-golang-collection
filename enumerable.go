@@ -1,4 +1,4 @@
-package collectionn
+package collection
 
 type enumerable struct {
 	Enumerator func() IEnumerator

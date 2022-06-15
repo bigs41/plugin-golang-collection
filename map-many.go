@@ -1,4 +1,4 @@
-package collectionn
+package collection
 
 func (m enumerable) MapMany(selector interface{}) IEnumerable {
 	return m.SelectMany(selector)

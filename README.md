@@ -9,14 +9,14 @@
                                                                                  \_/__/
 ```
 
-# collectionn.go [![GoDoc](https://godoc.org/github.com/ahl5esoft/golang-collectionn?status.svg)](https://godoc.org/github.com/ahl5esoft/golang-collectionn) [![Go Report Card](https://goreportcard.com/badge/github.com/ahl5esoft/golang-collectionn)](https://goreportcard.com/report/github.com/ahl5esoft/golang-collectionn) ![Version](https://img.shields.io/badge/version-2.6.1-green.svg)
-like <a href="http://collectionnjs.org/">collectionn.js</a> and C# LINQ, but for Go
+# collection.go [![GoDoc](https://godoc.org/github.com/ahl5esoft/golang-collection?status.svg)](https://godoc.org/github.com/ahl5esoft/golang-collection) [![Go Report Card](https://goreportcard.com/badge/github.com/ahl5esoft/golang-collection)](https://goreportcard.com/report/github.com/ahl5esoft/golang-collection) ![Version](https://img.shields.io/badge/version-2.6.1-green.svg)
+like <a href="http://collectionjs.org/">collection.js</a> and C# LINQ, but for Go
 
 ## Installation
-    $ go get github.com/ahl5esoft/golang-collectionn
+    $ go get github.com/ahl5esoft/golang-collection
 
 ## Update
-	$ go get -u github.com/ahl5esoft/golang-collectionn
+	$ go get -u github.com/ahl5esoft/golang-collection
 
 ## Lack
 * Concat/ThenBy

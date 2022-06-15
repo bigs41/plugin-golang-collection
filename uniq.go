@@ -1,4 +1,4 @@
-package collectionn
+package collection
 
 func (m enumerable) Uniq(predicate interface{}) IEnumerable {
 	return m.Distinct(predicate)

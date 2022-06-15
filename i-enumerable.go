@@ -1,4 +1,4 @@
-package collectionn
+package collection
 
 // IEnumerable is 迭代器接口
 type IEnumerable interface {

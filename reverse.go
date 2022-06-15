@@ -1,4 +1,4 @@
-package collectionn
+package collection
 
 func (m enumerable) Reverse(selector interface{}) IEnumerable {
 	return m.Sort(selector).Sort(func(_ interface{}, i int) int {

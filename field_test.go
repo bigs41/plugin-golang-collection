@@ -1,4 +1,4 @@
-package collectionn
+package collection
 
 import (
 	"testing"

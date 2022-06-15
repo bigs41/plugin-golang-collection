@@ -1,4 +1,4 @@
-package collectionn
+package collection
 
 func (m enumerable) Sort(selector interface{}) IEnumerable {
 	return m.Order(selector)

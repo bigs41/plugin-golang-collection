@@ -1,4 +1,4 @@
-package collectionn
+package collection
 
 func (m enumerable) Filter(predicate interface{}) IEnumerable {
 	return m.Where(predicate)

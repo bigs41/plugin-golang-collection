@@ -1,4 +1,4 @@
-package collectionn
+package collection
 
 func (m enumerable) Except(predicate interface{}) IEnumerable {
 	return m.Reject(predicate)
