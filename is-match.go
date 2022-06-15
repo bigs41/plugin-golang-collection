@@ -1,4 +1,4 @@
-package underscore
+package collectionn
 
 // IsMatch is 对象中的属性名与属性值都与map的key和value相同
 func IsMatch(item interface{}, fields map[string]interface{}) bool {

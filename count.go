@@ -1,4 +1,4 @@
-package underscore
+package collectionn
 
 func (m enumerable) Count() int {
 	iterator := m.GetEnumerator()

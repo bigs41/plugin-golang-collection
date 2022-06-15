@@ -9,14 +9,14 @@
                                                                                  \_/__/
 ```
 
-# Underscore.go [![GoDoc](https://godoc.org/github.com/ahl5esoft/golang-underscore?status.svg)](https://godoc.org/github.com/ahl5esoft/golang-underscore) [![Go Report Card](https://goreportcard.com/badge/github.com/ahl5esoft/golang-underscore)](https://goreportcard.com/report/github.com/ahl5esoft/golang-underscore) ![Version](https://img.shields.io/badge/version-2.6.1-green.svg)
-like <a href="http://underscorejs.org/">underscore.js</a> and C# LINQ, but for Go
+# collectionn.go [![GoDoc](https://godoc.org/github.com/ahl5esoft/golang-collectionn?status.svg)](https://godoc.org/github.com/ahl5esoft/golang-collectionn) [![Go Report Card](https://goreportcard.com/badge/github.com/ahl5esoft/golang-collectionn)](https://goreportcard.com/report/github.com/ahl5esoft/golang-collectionn) ![Version](https://img.shields.io/badge/version-2.6.1-green.svg)
+like <a href="http://collectionnjs.org/">collectionn.js</a> and C# LINQ, but for Go
 
 ## Installation
-    $ go get github.com/ahl5esoft/golang-underscore
+    $ go get github.com/ahl5esoft/golang-collectionn
 
 ## Update
-	$ go get -u github.com/ahl5esoft/golang-underscore
+	$ go get -u github.com/ahl5esoft/golang-collectionn
 
 ## Lack
 * Concat/ThenBy

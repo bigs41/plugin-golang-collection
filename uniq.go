@@ -1,4 +1,4 @@
-package underscore
+package collectionn
 
 func (m enumerable) Uniq(predicate interface{}) IEnumerable {
 	return m.Distinct(predicate)

@@ -1,4 +1,4 @@
-package underscore
+package collectionn
 
 func (m enumerable) First() IEnumerable {
 	iterator := m.GetEnumerator()

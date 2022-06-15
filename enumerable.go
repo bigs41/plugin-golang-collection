@@ -1,4 +1,4 @@
-package underscore
+package collectionn
 
 type enumerable struct {
 	Enumerator func() IEnumerator

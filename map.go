@@ -1,4 +1,4 @@
-package underscore
+package collectionn
 
 func (m enumerable) Map(selector interface{}) IEnumerable {
 	return m.Select(selector)

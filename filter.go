@@ -1,4 +1,4 @@
-package underscore
+package collectionn
 
 func (m enumerable) Filter(predicate interface{}) IEnumerable {
 	return m.Where(predicate)

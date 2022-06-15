@@ -1,4 +1,4 @@
-package underscore
+package collectionn
 
 import "sort"
 
